@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DataBDA</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="dato">Dato</string>
+    <string name="agregar">Agregar</string>
+    <string name="hint">Hint</string>
+    <string name="borrar">Borrar</string>
+</resources>
